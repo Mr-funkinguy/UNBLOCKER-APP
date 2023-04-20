@@ -1,0 +1,12 @@
+{
+    "name": "UNBLOCKER",
+    "short_name": "UNBLOCKER",
+    "start_url": "index.html",
+    "icons": [
+      
+    ],
+    "theme_color": "#262626",
+    "background_color": "#424242",
+    "display": "fullscreen",
+    "orientation": "portrait"
+}
